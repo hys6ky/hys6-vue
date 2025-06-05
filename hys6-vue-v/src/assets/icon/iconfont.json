@@ -1,0 +1,170 @@
+{
+  "id": "4027735",
+  "name": "浦银",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "23445859",
+      "name": "矩形树图",
+      "font_class": "juxingshutu",
+      "unicode": "e679",
+      "unicode_decimal": 59001
+    },
+    {
+      "icon_id": "23043464",
+      "name": "极坐标条形堆叠图",
+      "font_class": "jizuobiaotiaoxingduidietu",
+      "unicode": "e7a5",
+      "unicode_decimal": 59301
+    },
+    {
+      "icon_id": "1991414",
+      "name": "折线图",
+      "font_class": "zhexiantu1",
+      "unicode": "e631",
+      "unicode_decimal": 58929
+    },
+    {
+      "icon_id": "10480268",
+      "name": "柱状堆叠图",
+      "font_class": "zhuzhuangduidietu",
+      "unicode": "e928",
+      "unicode_decimal": 59688
+    },
+    {
+      "icon_id": "23036458",
+      "name": "玫瑰饼图",
+      "font_class": "meiguibingtu",
+      "unicode": "e79e",
+      "unicode_decimal": 59294
+    },
+    {
+      "icon_id": "1167282",
+      "name": "文本",
+      "font_class": "wenben",
+      "unicode": "e639",
+      "unicode_decimal": 58937
+    },
+    {
+      "icon_id": "1305461",
+      "name": "表格",
+      "font_class": "biaoge",
+      "unicode": "e63e",
+      "unicode_decimal": 58942
+    },
+    {
+      "icon_id": "1881573",
+      "name": "散点图",
+      "font_class": "sandiantu",
+      "unicode": "e66a",
+      "unicode_decimal": 58986
+    },
+    {
+      "icon_id": "4354248",
+      "name": "图表-折线图",
+      "font_class": "zhexiantu",
+      "unicode": "eb96",
+      "unicode_decimal": 60310
+    },
+    {
+      "icon_id": "4354252",
+      "name": "柱状图",
+      "font_class": "zhuzhuangtu",
+      "unicode": "eb97",
+      "unicode_decimal": 60311
+    },
+    {
+      "icon_id": "4649399",
+      "name": "null-chart",
+      "font_class": "zhuxiantu",
+      "unicode": "e632",
+      "unicode_decimal": 58930
+    },
+    {
+      "icon_id": "5388011",
+      "name": "饼图_o",
+      "font_class": "bingtu",
+      "unicode": "ebb4",
+      "unicode_decimal": 60340
+    },
+    {
+      "icon_id": "769266",
+      "name": "付款",
+      "font_class": "shouye",
+      "unicode": "e643",
+      "unicode_decimal": 58947
+    },
+    {
+      "icon_id": "3522455",
+      "name": "目录",
+      "font_class": "mulu",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "5650859",
+      "name": "单位",
+      "font_class": "danwei",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "34306069",
+      "name": "金币",
+      "font_class": "zhibiaoguanli",
+      "unicode": "e6ea",
+      "unicode_decimal": 59114
+    },
+    {
+      "icon_id": "5387669",
+      "name": "树状图",
+      "font_class": "diaoduguanli",
+      "unicode": "eb2c",
+      "unicode_decimal": 60204
+    },
+    {
+      "icon_id": "31969788",
+      "name": "首页icon-选中备份 2",
+      "font_class": "xitongshouye",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "409445",
+      "name": "快捷菜单",
+      "font_class": "kuaijiecaidan",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "797165",
+      "name": "系统设置",
+      "font_class": "xitongguanli",
+      "unicode": "e680",
+      "unicode_decimal": 59008
+    },
+    {
+      "icon_id": "11749422",
+      "name": "齿轮2",
+      "font_class": "shujvcaiji",
+      "unicode": "e678",
+      "unicode_decimal": 59000
+    },
+    {
+      "icon_id": "18088845",
+      "name": "数据分析",
+      "font_class": "shujvchuli",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "34220371",
+      "name": "文件设置",
+      "font_class": "shujvzichan",
+      "unicode": "e87b",
+      "unicode_decimal": 59515
+    }
+  ]
+}

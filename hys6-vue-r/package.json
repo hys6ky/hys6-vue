@@ -1,0 +1,44 @@
+{
+  "name": "hyren-index",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve --mode development",
+    "build": "vue-cli-service build --mode production"
+  },
+  "dependencies": {
+    "axios": "^1.4.0",
+    "codemirror": "^5.54.0",
+    "core-js": "^3.8.3",
+    "crypto-js": "^4.1.1",
+    "echarts": "^4.9.0",
+    "element-ui": "^2.15.13",
+    "highcharts-vue": "^1.4.3",
+    "jsmind": "^0.6.4",
+    "json-bigint": "^1.0.0",
+    "sql-formatter": "^2.3.3",
+    "v-charts": "^1.19.0",
+    "vue": "^2.7.14",
+    "vue-codemirror": "^4.0.6",
+    "vue-highcharts": "^0.2.0",
+    "vue-router": "^3.5.1",
+    "vuex": "^3.6.2"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-plugin-router": "~5.0.0",
+    "@vue/cli-plugin-vuex": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "babel-plugin-component": "^1.1.1",
+    "less": "^4.0.0",
+    "less-loader": "^8.0.0",
+    "style-resources-loader": "^1.4.1",
+    "vue-cli-plugin-style-resources-loader": "^0.1.5",
+    "vue-template-compiler": "^2.6.14"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
